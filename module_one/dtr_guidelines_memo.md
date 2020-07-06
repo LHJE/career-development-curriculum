@@ -150,10 +150,10 @@ Zoom, GitHub, Atom Teletype, texting, Slack.
 
 #### Day 1 Agenda:   
 
-Go over directions.
-Set up general outline for the project
-Set up outline for Iteration 1
-Start work on Iteration 1
+ - Go over directions.  
+ - Set up general outline for the project.  
+ - Set up outline for Iteration 1.  
+ - Start work on Iteration 1.  
 
 #### Additional Notes:  
 
